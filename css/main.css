@@ -1,0 +1,11 @@
+/* estilo */
+input{
+	width:300px;
+}
+
+
+/* funcionalidad JS */
+.li-done{
+	text-decoration: line-through;
+	color: #DFDFDF;
+}
